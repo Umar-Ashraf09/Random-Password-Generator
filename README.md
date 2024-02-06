@@ -1,6 +1,6 @@
 # Random Password Generator
 
-Random Password Generator
+[Random Password Generator](https://umar-ashraf09.github.io/Random-Password-Generator/)
 
 Welcome to Random Password Generator, a simple web application that generates random passwords with customizable length and characters.
 
@@ -12,7 +12,8 @@ Welcome to Random Password Generator, a simple web application that generates ra
 - [Customization](#customization)
 
 ## Preview
-[![Random Password Generator Preview](preview.png)](https://yourlinkhere.com)
+![Random Password Generator](https://github.com/Umar-Ashraf09/Random-Password-Generator/assets/92431008/5bd86262-e94c-41cd-a208-3655cea3e83b)
+
 
 ## Technologies Used
 - **HTML**
@@ -22,7 +23,7 @@ Welcome to Random Password Generator, a simple web application that generates ra
 - **Google Fonts (Roboto Mono)**
 
 ## How to Use
-1. Open the [Random Password Generator]() web page.
+1. Open the [Random Password Generator](https://umar-ashraf09.github.io/Random-Password-Generator/) web page.
 2. Adjust the length of the password using the range slider.
 3. Click the "Random" button to generate a random password.
 4. Click the "Copy" button to copy the generated password to the clipboard.
